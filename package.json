@@ -8,6 +8,7 @@
     "express-handlebars": "^3.0.0"
   },
   "scripts": {
+    "start": "node manDog.js &",
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
   "keywords": [
